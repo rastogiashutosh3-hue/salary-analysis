@@ -103,7 +103,7 @@ Not in a straight line. The highest median salaries belong to Cloud Engineer ($1
 
 **Takeaway:** Role and seniority appear to matter more than raw skill count.
 
-![Salary vs skills chart](assets/salary_vs_skills.png)
+![Salary vs skills chart](assets/Salary_vs_Skills.png)
 
 ### 2️⃣ Salary by region
 
@@ -121,7 +121,7 @@ Not in a straight line. The highest median salaries belong to Cloud Engineer ($1
 
 **Takeaway:** US medians are higher for most roles, with the largest gap for Machine Learning Engineer (about $49K). Data Analyst pay is identical in both groups, and Data Engineer is nearly level.
 
-![Salary by region chart](assets/salary_by_region.png)
+![Salary by region chart](assets/Salary_by_region.png)
 
 ### 3️⃣ Most requested skills
 
